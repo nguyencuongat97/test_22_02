@@ -4,3 +4,4 @@ nguyen quang thay doi lan 2
 nguyen quang thay doi lan 3
 thay doi xoa cho nay pullrequest
 them cho nay
+thay doi trk khi pull
